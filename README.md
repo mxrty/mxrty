@@ -3,8 +3,8 @@
 I'm a junior who loves tech and debate. 
 
 * Currently learning 💡 Next.js
-* Future plans 🚀 Typescript, Gun.js, Kubernetes
-* I ❤️ C#, React, Java & Node.js
+* Future plans 🚀 Typescript, Kotlin, Tailwind
+* I ❤️ C#, React, Java & Javascript
 
 ## Developing [Widepoll](http://widepoll.com/) 
 Currently working on [Widepoll](http://widepoll.com/), an interactive platform with the hopes of finding new ways to constructively use the mass of opinions available online.
