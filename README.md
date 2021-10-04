@@ -1,7 +1,5 @@
 ## Hey! 👾 I'm Marty.
 
-I'm a junior who loves tech and debate. 
-
 * Currently learning 💡 Next.js
 * Future plans 🚀 Typescript, Kotlin, Tailwind
 * I ❤️ C#, React, Java & Javascript
