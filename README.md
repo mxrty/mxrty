@@ -1,7 +1,7 @@
 ## Hey! 👾 I'm Marty.
 
 * Currently learning 💡 Next.js
-* Future plans 🚀 Typescript, Kotlin, Tailwind
+* Future plans 🚀 Typescript, Tailwind, Rust, Kotlin
 * I ❤️ C#, React, Java & Javascript
 
 ## Developing [Widepoll](http://widepoll.com/) 
